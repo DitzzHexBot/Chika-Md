@@ -28,7 +28,7 @@ global.ownernomer = '6289682400382' //ubah jadi nomor mu, note tanda ' gausah di
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Adit' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'HexBot - MD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.botname = 'HexBot-MD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'Adit' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
@@ -41,7 +41,7 @@ global.email = 'hexbotmdofficial@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© HexBot - MD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = '© HexBot-MD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.author = 'Adit' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
